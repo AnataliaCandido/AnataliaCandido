@@ -1,6 +1,6 @@
 # Olá, Eu sou Anatalia Candido 👋🏻 <br>
 📌 A procura de uma oportunidade na área de front-end.<br>
-👩🏻‍💻 Estudando React.<br>
+👩🏻‍💻 Estudando React.js<br>
 👩🏻 Pronous: ela/dela
 
 <div align="center">
