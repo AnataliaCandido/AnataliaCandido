@@ -1,6 +1,6 @@
-# Olá, Eu sou Anatalia Candido 👋🏻 <br>
-📌 A procura de uma oportunidade na área de Back-End.<br>
-👩🏻‍💻 Estudando PHP<br>
+# Olá, Eu sou Anatália Candido 👋🏻 <br>
+📌 A procura de uma oportunidade na área de Front End.<br>
+👩🏻‍💻 Estudando REACT.JS<br>
 
 
 <div align="center">
@@ -14,7 +14,9 @@
      <img align="center" alt="HTML5" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
      <img align="center" alt="JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="center" alt="Git" height="33" width="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="center" alt="php" height="47" width="57" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />  
+<img align="center" alt="php" height="47" width="57" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+<img align="center" alt="React.js" height="35" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+          
 </div>
 
 ##
