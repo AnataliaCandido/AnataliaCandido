@@ -1,6 +1,7 @@
 # Olá, Eu sou Anatália Candido 👋🏻 <br>
 📌 A procura de uma oportunidade na área de Front End.<br>
-👩🏻‍💻 Estudando REACT.JS<br>
+👩🏻‍💻 Estudando REACT.JS.<br>
+👩🏻‍💻 Cursando análise de desenvolvimento de sistema pela faculdade São Judas.<br>
 
 
 <div align="center">
